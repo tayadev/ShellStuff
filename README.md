@@ -8,3 +8,6 @@ Functions for controlling the cursor in a terminal
 
 ## shmap.sh
 Simple hashmap implementation
+
+## fetch.sh
+Simple system info script
